@@ -6,9 +6,9 @@ Chisfis has a modern and fresh design for the entire website from overall to fun
 
 **Demo**
 
-[PREVIEW](https://chisfis-thaipham-coder.vercel.app) or visit [PREVIEW](https://chisfis-thaipham-coder.vercel.app)
+[Preview Here](https://chisfis-thaipham-coder.vercel.app) or visit [https://chisfis-pi.vercel.app](https://chisfis-pi.vercel.app)
 
 
-[BUY HERE](https://themeforest.net/item/chisfis-online-booking-react-template/33515927) or visit [https://themeforest.net/item/chisfis-online-booking-react-template/33515927](https://themeforest.net/item/chisfis-online-booking-react-template/33515927)
+[Buy from Author](https://themeforest.net/item/chisfis-online-booking-react-template/33515927) or visit [https://themeforest.net/item/chisfis-online-booking-react-template/33515927](https://themeforest.net/item/chisfis-online-booking-react-template/33515927)
 
 _Credit to_ **ChisNghiax**
